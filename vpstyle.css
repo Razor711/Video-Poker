@@ -1,0 +1,22 @@
+﻿.card {
+  height: 140px;
+  width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+}
+
+body {
+  font-size: 75%;
+  background-color: green;
+  color: white;
+}
+
+#cards {
+  height: 200px;
+  width: 600px;
+  margin: auto;
+}
+
